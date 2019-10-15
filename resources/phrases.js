@@ -10,5 +10,10 @@ phrases = [
   'top of mind',
   "let's double click on that",
   'north star',
-  '10x'
+  '10x',
+  'alright, is everyone here?',
+  'get aligned',
+  'right out of the gate',
+  'super excited',
+  'sync up with'
 ]
