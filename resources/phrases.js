@@ -8,5 +8,7 @@ phrases = [
   'take this offline',
   'move the needle',
   'top of mind',
-  "let's double click on that"
+  "let's double click on that",
+  'north star',
+  '10x'
 ]
