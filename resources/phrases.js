@@ -15,5 +15,6 @@ phrases = [
   'get aligned',
   'right out of the gate',
   'super excited',
-  'sync up with'
+  'sync up with',
+  'drain the slide'
 ]
