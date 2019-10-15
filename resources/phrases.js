@@ -16,5 +16,14 @@ phrases = [
   'right out of the gate',
   'super excited',
   'sync up with',
-  'drain the slide'
+  'drain the slide',
+  'will it scale?',
+  'going forward',
+  'holistic approach',
+  'bring to the table',
+  'push the envelope',
+  "let's unpack that",
+  'wheelhouse',
+  'close the loop',
+  'eating our own dogfood'
 ]
