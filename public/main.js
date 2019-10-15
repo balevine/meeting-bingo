@@ -14,7 +14,7 @@ async function fillNewCard(phraseBank) {
 async function getPhrases(phraseBank) {
   let activePhrases = []
   let randomPhrase, randomIndex
-  for (let step = 0; step < 8; step++) {
+  for (let step = 0; step < 24; step++) {
     randomIndex = Math.floor(Math.random() * phraseBank.length)
     // take it away
     randomPhrase = phraseBank.splice(randomIndex, 1)
