@@ -38,6 +38,7 @@ async function fillPhrases(activePhrases) {
 
   document.getElementById('3-1').innerHTML = activePhrases[10]
   document.getElementById('3-2').innerHTML = activePhrases[11]
+  // middle square is a free space
   document.getElementById('3-4').innerHTML = activePhrases[12]
   document.getElementById('3-5').innerHTML = activePhrases[13]
 
